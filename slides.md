@@ -91,7 +91,7 @@ stuff
 	- "fast"
 	- SNP detection
 	- Lots of "left over" reads
-	
+
 --
 
 ## *De novo* assembly
