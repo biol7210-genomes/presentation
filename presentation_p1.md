@@ -91,21 +91,6 @@ stuff
 	- "fast"
 	- SNP detection
 	- Lots of "left over" reads
-	
---
-
-## *De novo* assembly
-
-- Stuff about *de novo*
-- More stuff
-
---
-
-## Reference guided
-
-- [X] stuff about reference guided
-- other stuff
-
 
 ---
 
