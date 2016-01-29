@@ -99,7 +99,7 @@ stuff
 - Stuff about *de novo*
 - More stuff
 
---
+---
 
 ## Reference guided
 
@@ -107,7 +107,7 @@ stuff
 - other stuff
 
 
----
+--
 
 ## Assembly improvement
 - Polishing
