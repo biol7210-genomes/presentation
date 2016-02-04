@@ -4,7 +4,9 @@
  *
  * https://github.com/hakimel/reveal.js#pdf-export
  */
-
+#footer{
+    display: none;
+}
 * {
 	-webkit-print-color-adjust: exact;
 }
