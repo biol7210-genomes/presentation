@@ -4,7 +4,7 @@
 
 Members: Wilson Martin, Tannishtha Som,  Alli Gombolay, Tyrone Lee, Peijue Zhang, Ellie Kim, Cheng Chen, Alicia Francis, Namrata Kalsi, Aroon Chande
 
-###### Click [here](/?print-pdf) for a print freindly version
+###### Click [here](/presentation/?print-pdf) for a print freindly version
 
 ---
 
