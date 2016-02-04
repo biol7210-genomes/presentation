@@ -22,7 +22,7 @@ Members: Wilson Martin, Tannishtha Som,  Alli Gombolay, Tyrone Lee, Peijue Zhang
 ## Illumina Sequencing
 ###Sequencing method
 - "Sequence by synthesis"
-	-  Sample DNA is sheered and ligated to primers
+	- Sample DNA is sheered and ligated to primers
 	- Bridge amplification 
 	- Sequencing reaction
 - Each insert has a tag, or barcode
